@@ -1,7 +1,3 @@
-Challenge-2:-
-================
-i opted for Azure instance metadata retrival and convert to JSON format as below :
-
 #!/bin/bash
 echo "path of the pem file: "
 read pemfile
